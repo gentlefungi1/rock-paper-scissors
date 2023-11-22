@@ -90,11 +90,11 @@
 }
 
 footer{
-    display: flex;
+    display: block;
     justify-content: center;
     align-content: center;
     text-align: center;
-    margin-top: 0;
+    margin-to
 }
 
 @media (min-width: 768px) {
@@ -141,9 +141,22 @@ footer{
         font-size: 1.5rem;
     }
 
+    .option{
+        font-size: 20px;
+    }
+
     #paper{
         margin-right: 1rem;
         margin-left: 1rem;
     }
+
+}
+
+
+@media(max-width: 378px) {
+    .option{
+        font-size: 17px;
+    }
+
 }
 
