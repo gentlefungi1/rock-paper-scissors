@@ -1,0 +1,149 @@
+.div-main{
+    display: block;
+    justify-content: center;
+    align-content: center;
+    border: 2px solid black;
+    hight: 100%;
+        
+}
+
+.container{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.wrapper1{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+
+.wrapper2{
+    display: block;
+    background-color: #999;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+
+}
+
+.comp-select{
+    font-size: 2rem;
+}
+
+.round{
+    font-size: 1.2rem;
+}
+
+.option{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.choice{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #999;
+    margin-top: 3rem;
+    margin-bottom: 2.5rem;
+}
+
+#paper{
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+
+.option{
+  font-family: "Open Sans", sans-serif;
+  font-size: 27px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.option:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  .option {
+    padding: 0.25em 0.75em;
+  }
+}
+
+
+@media(max-width: 810px) {
+    .option{
+
+    }
+
+    #paper{
+        margin-right: 5rem;
+        margin-left: 5rem;
+    }
+}
+
+@media(max-width: 614px) {
+    h1{
+        font-size: 2rem;
+    }
+
+    .wrapper1{
+        display: flex;
+        justify-content:space-evenly;
+        align-content: center;
+    }
+
+    #paper{
+        margin-right: 2rem;
+        margin-left: 2rem;
+    }
+}
+
+@media(max-width: 516px) {
+    h1{
+        font-size: 1.5rem;
+    }
+
+    h2{
+        font-size: 1.5rem;
+    }
+
+    #paper{
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+}
+

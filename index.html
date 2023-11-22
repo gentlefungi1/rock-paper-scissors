@@ -3,11 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
     <title>Document</title>
 </head>
 <body>
-    
-
-    <script src="rockpaper.js"></script> 
+    <div class="div-main">
+        <div class="container">
+            <div class="title">
+                <h1>Welcome to my Game of Rock, Paper, Scissors. Let's play...</h1>
+                <h2>Your Choice:</h2>
+            </div>
+            <div class="wrapper1">
+                <div class="scores">
+                    <p id="player-score"></p>
+                    <p id="comp-score"></p>
+                </div>
+                <div class="won">
+                    <p class="p-won"></p>
+                </div>
+            </div>
+            <div class="wrapper2">
+                <div class="select">
+                    <p class="comp-select"></p>
+                </div>
+                <div class="div-round">
+                    <p class="round"></p>
+                </div>
+            </div>
+            <div class="choice">
+                <button id="rock" class="option">Rock</button>
+                <button id="paper" class="option">Paper</button>
+                <button id="scissors" class="option">Scissors</button>
+            </div>
+        </div>
+        <footer>
+            <p>Reload the page to reset the game.</p>
+            <p> &copy; Gentlefungi.</p>
+        </footer>
+    </div>
+    <script src="./rockpaperscissors.js"></script> 
 </body>
 </html>
