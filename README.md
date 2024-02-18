@@ -21,7 +21,7 @@ To install and run Rock, Paper, Scissors Showdown locally on your machine, follo
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors.git
+git clone https://github.com/gentlefungi1/rock-paper-scissors
 ```
 
 2. Navigate to the project directory:
