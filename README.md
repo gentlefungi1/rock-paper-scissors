@@ -2,13 +2,17 @@
 # Rock, Paper, Scissors Showdown
 ==============================
 
+
 ## Introduction:
+Welcome to Rock, Paper, Scissors Showdown! This project is not just about recreating a simple childhood game; it's about bringing joy, nostalgia, and a bit of friendly competition to anyone who plays it. As a developer, I believe in the power of simplicity and accessibility in gaming experiences, and that's exactly what Rock, Paper, Scissors Showdown aims to deliver.
 
-Welcome to Rock, Paper, Scissors Showdown! This project is a web-based implementation of the classic Rock, Paper, Scissors game. Test your luck and strategy against the computer in this nostalgic hand-to-hand combat.
+![Rock, Paper, Scissors Game](https://github.com/gentlefungi1/rock-paper-scissors/blob/main/paper2.png)
 
-- **Deployed Site:** [Rock, Paper, Scissors Showdown](https://example.com)
-- **Final Project Blog Article:** [Read Here](https://example.com/blog)
-- **Author(s) LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+I embarked on this project with the goal of creating a fun and engaging web-based game that could be enjoyed by people of all ages, regardless of their gaming experience. Inspired by fond memories of playing Rock, Paper, Scissors with friends and family, I set out to recreate that experience in a digital format, accessible to anyone with an internet connection and a web browser.
+
+- Deployed Site: [Rock, Paper, Scissors Game](https://gentlefungi1.github.io/rock-paper-scissors/)
+- Final Project Blog Article: [Read Here](https://gentlefungi1.github.io/rockpaperlandingpage/)
+- Author(s) LinkedIn: (https://www.linkedin.com/in/kelvin-okereafor)
 
 ## Installation:
 
@@ -61,14 +65,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Sure, here's how you can format the README.md file for GitHub:
 
 ```markdown
-# Rock, Paper, Scissors Showdown
-
-## Introduction:
-Welcome to Rock, Paper, Scissors Showdown! This project is not just about recreating a simple childhood game; it's about bringing joy, nostalgia, and a bit of friendly competition to anyone who plays it. As a developer, I believe in the power of simplicity and accessibility in gaming experiences, and that's exactly what Rock, Paper, Scissors Showdown aims to deliver.
-
-![Rock, Paper, Scissors Game](https://example.com/screenshot.png)
-
-I embarked on this project with the goal of creating a fun and engaging web-based game that could be enjoyed by people of all ages, regardless of their gaming experience. Inspired by fond memories of playing Rock, Paper, Scissors with friends and family, I set out to recreate that experience in a digital format, accessible to anyone with an internet connection and a web browser.
 
 ## Technical Inspiration:
 While Rock, Paper, Scissors may seem like a straightforward game, there were technical challenges to overcome in its implementation. One of the key technical challenges was designing an efficient algorithm to determine the winner of each round based on the players' choices. I wanted the game to feel responsive and seamless, with quick transitions between rounds and intuitive feedback for the players.
