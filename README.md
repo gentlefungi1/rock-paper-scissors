@@ -56,15 +56,6 @@ Check out these related projects for more fun and excitement:
 - [Tic Tac Toe Tournament](https://github.com/yourusername/tic-tac-toe)
 - [Guess the Number Challenge](https://github.com/yourusername/guess-the-number)
 
-## Licensing:
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-
-Sure, here's how you can format the README.md file for GitHub:
-
-```markdown
 
 ## Technical Inspiration:
 While Rock, Paper, Scissors may seem like a straightforward game, there were technical challenges to overcome in its implementation. One of the key technical challenges was designing an efficient algorithm to determine the winner of each round based on the players' choices. I wanted the game to feel responsive and seamless, with quick transitions between rounds and intuitive feedback for the players.
@@ -87,6 +78,11 @@ I'm excited about the future possibilities for Rock, Paper, Scissors Showdown an
 
 ## Let's Connect!
 If you have any questions, suggestions, or just want to say hello, feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/kelvin-okereafor) or [Twitter](https://twitter.com/gentlefungi)) for more information.
+
+## Licensing:
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 Let's keep the Rock, Paper, Scissors spirit alive and have some fun together! 🎉👋
 ```
